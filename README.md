@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄
 
 <!--
 **NamLe0609/NamLe0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Im Nam Le, an Vietnamese developer living in the UK for the past 6 years. I am currently studying Computer Science at [Durham University](https://durham.ac.uk/), England, UK. I am currently a 2nd year student looking for a summer internship to expand my knowledge and experience in any field of Computer Science in 2024.
+
+## About me
+
+I really enjoy learning about new technologies as well as coding language, especially whenever I have to do so for a challenging project. Outside of programming, In my free time, I usually enjoy reading classics, dystopian or sci-fi novels, or sometimes I like cooking good food.
+
+## Contacts
+
+* https://www.linkedin.com/in/namhle03/
+* lehoangnamtep@gmail.com
