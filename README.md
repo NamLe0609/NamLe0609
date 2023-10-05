@@ -23,5 +23,5 @@ I really enjoy learning about new technologies as well as coding language, espec
 
 ## Contacts
 
-* https://www.linkedin.com/in/namhle03/
-* lehoangnamtep@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/namhle03/)
+* [Gmail](lehoangnamtep@gmail.com)
