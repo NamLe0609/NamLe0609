@@ -19,7 +19,7 @@ Im Nam Le, an Vietnamese developer living in the UK for the past 6 years. I am c
 
 ## About me
 
-I really enjoy learning about new technologies as well as coding language, especially whenever I have to do so for a challenging project. Outside of programming, In my free time, I usually enjoy reading classics, dystopian or sci-fi novels, or sometimes I like cooking good food.
+I really enjoy learning about new technologies as well as coding language, especially whenever I have to do so for a challenging project. Outside of programming, in my free time, I usually enjoy reading classics, dystopian or sci-fi novels, or sometimes I like cooking good food.
 
 ## Contacts
 
