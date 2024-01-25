@@ -23,5 +23,6 @@ I really enjoy learning about new technologies as well as coding language, espec
 
 ## Contacts
 
+* [Personal Website](https://namle0609.github.io)
 * [LinkedIn](https://www.linkedin.com/in/namhle03/)
 * [Gmail](lehoangnamtep@gmail.com)
