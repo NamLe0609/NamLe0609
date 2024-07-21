@@ -1,23 +1,20 @@
 ### Hi there 😄
 
 Im Nam Le, a Vietnamese Performance Engineer living in the UK for the past ~7 years. I am currently studying Computer Science at [Durham University](https://durham.ac.uk/). 
-
 I just finished my 2nd year of my integrated Masters degree (MEng), and will be participating in the [Jülich Supercomputing Centre](https://www.fz-juelich.de/en/ias/jsc) Guest Student Programme, as well as [SecureWorks](https://www.secureworks.com/) internship programme in summer 2024.
 
 ## Professional Interests
 
 > We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-I live by the principles of writing fast, efficient, and hardware-friendly software, as I belive this is how one grows most as a software engineer. My research and professional interests naturally reflects this principle.
+I live by the principles of writing fast, efficient, and hardware-friendly software, as I belive this is how one grows most as a software engineer. My research and career interests naturally reflects this principle.
 
 ### Research
 
 - High Performance Computing
-- Data Oriented Design
 - GPU and Parallel programming
-- Compiler design and optimization
-- Distributed systems
-
+- Compiler optimization and Data Oriented Design
+  
 ### Career
 
 - Quantitative developer
@@ -27,7 +24,6 @@ I live by the principles of writing fast, efficient, and hardware-friendly softw
 ## About me
 
 I always push my self to my utmost limit in everything I do, be it playing games or studying. It is therefore not surprising why my main interest in the field of Computer Science is with Performance Engineering 😅. 
-
 In my free time, I usually enjoy reading classics/dystopian/sci-fi novels, or participate in lengthy (and nerdy 🤓) conversations with my university peers on various topics.
 
 [![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)]()
@@ -43,7 +39,7 @@ In my free time, I usually enjoy reading classics/dystopian/sci-fi novels, or pa
 [![keras](https://img.shields.io/static/v1?logo=keras&label=&message=keras&color=36465D&logoColor=AAA&style=flat-square)]()
 [![typst](https://img.shields.io/static/v1?logo=typst&label=&message=typst&color=36465D&logoColor=AAA&style=flat-square)]()
 
-## 📫 How to reach me
+## How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namhle03/)
 &nbsp;
