@@ -7,7 +7,7 @@ I just finished my 2nd year of my integrated Masters degree (MEng), and will be 
 
 > We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-I live by the principles of writing fast, efficient, and hardware-friendly software, as I belive this is how one grows most as a software engineer. My research and career interests naturally reflects this principle.
+I live by the principles of writing fast, efficient, and hardware-friendly software, as I believe this is how one grows most as a software engineer. My research and career interests naturally reflects this principle.
 
 ### Research
 
