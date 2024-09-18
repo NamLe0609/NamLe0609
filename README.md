@@ -1,7 +1,7 @@
 ### Hi there 😄
 
 Im Nam Le, a Vietnamese Performance Engineer living in the UK for the past ~7 years. I am currently studying Computer Science at [Durham University](https://durham.ac.uk/). 
-I just finished my 2nd year of my integrated Masters degree (MEng), and will be participating in the [Jülich Supercomputing Centre](https://www.fz-juelich.de/en/ias/jsc) Guest Student Programme, as well as [SecureWorks](https://www.secureworks.com/) internship programme in summer 2024.
+I just finished my 2nd year of my integrated Masters degree (MEng), and am participating in the [Jülich Supercomputing Centre](https://www.fz-juelich.de/en/ias/jsc) Guest Student Programme, as well as [SecureWorks](https://www.secureworks.com/) internship programme (summer 2024).
 
 ## Professional Interests
 
